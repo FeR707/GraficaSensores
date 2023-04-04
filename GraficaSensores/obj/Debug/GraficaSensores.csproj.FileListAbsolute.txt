@@ -1,0 +1,11 @@
+C:\Users\ReR-7\source\repos\GraficaSensores\GraficaSensores\bin\Debug\GraficaSensores.exe.config
+C:\Users\ReR-7\source\repos\GraficaSensores\GraficaSensores\bin\Debug\GraficaSensores.exe
+C:\Users\ReR-7\source\repos\GraficaSensores\GraficaSensores\bin\Debug\GraficaSensores.pdb
+C:\Users\ReR-7\source\repos\GraficaSensores\GraficaSensores\obj\Debug\GraficaSensores.csproj.AssemblyReference.cache
+C:\Users\ReR-7\source\repos\GraficaSensores\GraficaSensores\obj\Debug\GraficaSensores.csproj.SuggestedBindingRedirects.cache
+C:\Users\ReR-7\source\repos\GraficaSensores\GraficaSensores\obj\Debug\GraficaSensores.Form1.resources
+C:\Users\ReR-7\source\repos\GraficaSensores\GraficaSensores\obj\Debug\GraficaSensores.Properties.Resources.resources
+C:\Users\ReR-7\source\repos\GraficaSensores\GraficaSensores\obj\Debug\GraficaSensores.csproj.GenerateResource.cache
+C:\Users\ReR-7\source\repos\GraficaSensores\GraficaSensores\obj\Debug\GraficaSensores.csproj.CoreCompileInputs.cache
+C:\Users\ReR-7\source\repos\GraficaSensores\GraficaSensores\obj\Debug\GraficaSensores.exe
+C:\Users\ReR-7\source\repos\GraficaSensores\GraficaSensores\obj\Debug\GraficaSensores.pdb
